@@ -48,14 +48,14 @@ npm run preview
 
 ## Qué dirigí yo
 
-<!-- Completar aquí. -->
+Los prompts necesarios para la ejecucion correcta del proyecto, dirigiendolo de forma que se eviten errores y se concluya de la forma deseada
 
 ## Qué error encontré jugando que la máquina no avisó
 
-<!-- Completar aquí. -->
+No encontre errores, solo fallas de red entre  prompts dadas a la mala señal.
 
 ## Declaración de autoría
 
-- Herramienta utilizada: <!-- Completar aquí. -->
-- Declaración sobre el código generado por un agente de IA bajo mi dirección: <!-- Completar aquí. -->
-- Partes del proyecto que puedo explicar: <!-- Completar aquí. -->
+- Herramienta utilizada: Visual Code
+- Declaración sobre el código generado por un agente de IA bajo mi dirección: 
+- Partes del proyecto que puedo explicar: La interfaz y diseño del proyecto, el proposito de este mismo.
